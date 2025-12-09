@@ -57,7 +57,7 @@ export default {
 
 <style scoped>
 .home {
-  background: url('./src/assets/images/galaxy.jpg') no-repeat center center fixed;
+  background: url('../public/images/galaxy.jpg') no-repeat center center fixed;
   background-size: cover;
   height: 100vh;
   color: white;

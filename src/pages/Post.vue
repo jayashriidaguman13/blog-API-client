@@ -133,7 +133,7 @@ export default {
 
 <style scoped>
 .post {
-  background: url('./src/assets/images/post-bg.jpg') no-repeat center center fixed;
+  background: url('../public/images/post-bg.jpg') no-repeat center center fixed;
   background-size: cover;
   min-height: 100vh;
   color: white;

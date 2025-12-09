@@ -118,7 +118,7 @@ export default {
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500&family=Quicksand:wght@300;500&display=swap');
 
 .home {
-  background: url('./src/assets/images/galaxy.jpg') no-repeat center center fixed;
+  background: url('../public/images/galaxy.jpg') no-repeat center center fixed;
   background-size: cover;
   color: white;
   text-align: center;
